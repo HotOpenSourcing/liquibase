@@ -18,7 +18,6 @@ release.properties
 **/liquibase.sdk.local.yml
 derby.log
 .idea
-.vscode
 *.iml
 .DS_Store
 /tmp
@@ -45,3 +44,5 @@ original-pom.xml
 CLAUDE.md
 
 .worktrees/
+config.bat
+node_modules
